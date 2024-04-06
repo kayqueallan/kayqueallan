@@ -11,6 +11,8 @@ Hello! I'm Kayque Allan, a dedicated student of Software Engineering at PUC Mina
 <img align="center" alt="kayque-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin-right: 2px;" />
 <img align="center" alt="kayque-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin-right: 2px;" />
 <img align="center" alt="kayque-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="margin-right: 2px;" />
+  <img align="center" alt="kayque-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="margin-right: 2px;" />
+
 </div>
 
 ## 
