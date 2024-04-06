@@ -15,8 +15,3 @@ Hello! I'm Kayque Allan, a dedicated student of Software Engineering at PUC Mina
 
 ## 
 
-<div style="margin-right: 2px;">
-  <a href="https://www.instagram.com/rkayque_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "/></a>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "/>
- <a href="https://www.linkedin.com/in/kayque-allan-0a8b54245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
