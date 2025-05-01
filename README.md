@@ -5,7 +5,7 @@ Hello! I'm Kayque Allan, a dedicated Software Engineering student at PUC Minas, 
 
 ##
 
-<img style=width:240px src="https://skillicons.dev/icons?i=c,java,mysql,js,html,css,git"/>
+<img style=width:300px src="https://skillicons.dev/icons?i=java,php,mysql,nodejs,react,js,typescript,html,css,git"/>
 
 
 </div>
