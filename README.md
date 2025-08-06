@@ -122,12 +122,12 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 &nbsp; 
 <code><a href="https://nodejs.org/en/" target="_blank"><img width="45" height="45" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.docker.com/" target="_blank"><img width="45" height="45" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"/></a></code>
-&nbsp; 
+
+
 <code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="45" height="45" src="https://joaopauloaramuni.github.io/image/aws.png?raw=true"/></a></code>
 &nbsp; 
-
-
+<code><a href="https://www.docker.com/" target="_blank"><img width="45" height="45" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"/></a></code>
+&nbsp; 
 <code><a href="https://www.postman.com/" target="_blank"><img width="45" height="45" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://insomnia.rest/" target="_blank"><img width="45" height="45" src="https://joaopauloaramuni.github.io/image/insomnia.png?raw=true"/></a></code>
