@@ -1,18 +1,6 @@
 ### Kayque Allan - Software Engineering Student and Technology Enthusiast
 ##
-<div style="text-align: justify;">
-Hello! I'm Kayque Allan, a dedicated Software Engineering student at PUC Minas, with a great passion for technology. Fascinated by the world of computing from an early age, I am constantly seeking knowledge and improvement in programming. As a Software Engineering student, I am immersed in a dynamic environment where I apply theoretical concepts to practical projects, always eager to learn and grow through courses, workshops, and hackathons. In addition to programming, I am also a design enthusiast, exploring the intersection between aesthetics and functionality in digital products. Committed to personal and professional development, I am learning English and Spanish to expand my communication and collaboration opportunities in a globalized world. Here on GitHub, I'm excited to share my projects, collaborate with fellow developers, and contribute to the growing technology community. Let's innovate and create together for the digital future! </div>
 
-##
-
-<img style=width:400px src="https://skillicons.dev/icons?i=java,nodejs,react,js,typescript,html,css,git"/>
-
-
-</div>
-
-
-
---------------------------------------------
 
 
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
@@ -110,267 +98,50 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+### <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"/></a></code> 
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"/></a></code> 
 &nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/spring.png?raw=true"/></a></code>
+<code><a href="https://spring.io/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/spring.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"/></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"/></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/aws.png?raw=true"/></a></code>
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/aws.png?raw=true"/></a></code>
 &nbsp; 
 
 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/postman.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/insomnia.png?raw=true"/></a></code>
+<code><a href="https://insomnia.rest/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/insomnia.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/git.png?raw=true"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/git.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/eclipse.png?raw=true"/></a></code>
+<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/eclipse.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/netbeans.png?raw=true"/></a></code>
+<code><a href="https://netbeans.apache.org/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/netbeans.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="50" height="50" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"/></a></code>
 </div>
-
-
-
-<div>
-
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/writing.gif?raw=true"/>&nbsp;Artigos que publiquei:
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="5"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://revista.ibict.br/ciinf/article/view/4407" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/ci.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://revistas.ufpr.br/atoz/article/view/64640" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/atoz.png?raw=true"/></a>
-</td>
-<td>
-<a href="https://periodicos.cefetmg.br/index.php/revista-et/article/view/768" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/edtech.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://periodicos.ufpb.br/index.php/mpgoa/article/view/43707/30214" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/gestaoeaprendizagem.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://periodicos.ufpb.br/ojs2/index.php/actas/article/view/43701" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/acta.png?raw=true"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="5"></td>
-</tr> 
-</table>
-
-<table>
-<tr>
- <td align="center" colspan="5"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://www.revistas.usp.br/gestaodeprojetos/article/view/105650" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/gtp.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://rsdjournal.org/index.php/rsd/article/view/1979" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/rsd.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://www.cefet-rj.br/attachments/article/195/revista36_ago-dez2020_compressed.pdf" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/techcultura.jpg?raw=true"/></a>
-</td>
-<td>
-<a href="https://sou.ucs.br/etc/revistas/index.php/conexao/article/view/7781" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/conexao.png?raw=true"/></a>
-</td>
-<td>
-<!--
-<a href="https://www.fumec.br/revistas/sigc/article/view/2550" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/cod31.jpg?raw=true"/></a>
--->
-<a href="https://repositorio.fumec.br/handle/123456789/2/discover?query=Aramuni" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/cod31.jpg?raw=true"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="5"></td>
-</tr> 
-</table>
-
-</div>
-
-</div>
-
-<div>
-
-<details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/writing.gif?raw=true"/>&nbsp;Veja mais
-</summary>
-<br />
-<div align="center">
-<table>
-<tr>
- <td align="center">Alguns TCCs que orientei:</td>
- <td align="center">Minha monografia (TCC),<br />dissertação e tese:</td>
- <td align="center">Revista da qual sou avaliador:</td>
-</tr> 
-<tr>
-<td align="center">
-<a href="http://revista.fumec.br/index.php/computacaoesociedade/issue/view/378" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/compesoc.png?raw=true"/></a>
-</td>
-<td align="center">
-<a href="https://github.com/joaopauloaramuni/trabalhos-finais" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/sigc.jpg?raw=true"/></a>
-</td>
-<td align="center">
-<a href="https://periodicos.unb.br/index.php/RICI/index" target="_blank"><img width="150" height="200" src="https://joaopauloaramuni.github.io/image/rici2.jpg?raw=true"/></a>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3">:mailbox_with_mail: Informações sobre orientação de TCC ou participação em bancas, entre em contato pelo meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">email</a>.</td>
-</tr>
-</table>
-
-<table>
-<tr>
- <td align="center">Parceria Universidade Fumec e<br />Prefeitura de Belo Horizonte:</td>
- <td align="center">Parceria Newton Paiva e<br />Colégio Santa Dorotéia:</td>
- <td align="center">Revista SprinTi - PUC Minas:</td>
-</tr> 
-<tr>
- <td align="center">
-<a href="http://revista.fumec.br/index.php/pe/article/view/6203" target="_blank"><img width="180" height="200" src="https://joaopauloaramuni.github.io/image/cemei.jpg?raw=true"/></a>
-</td>
-<td align="center">
-<a href="https://blog.newtonpaiva.br/noticias/pelo-segundo-ano-consecutivo-newton-oferta-disciplinas-eletivas-para-alunos-do-ensino-medio-do-colegio-santa-doroteia/" target="_blank"><img width="200" height="200" src="https://joaopauloaramuni.github.io/image/santadoroteia.png?raw=true"/></a>
-</td>
-<td align="center">
-<a href="https://sprinti.pucminas.br/" target="_blank"><img width="210" height="200" src="https://joaopauloaramuni.github.io/image/sprinti.jpeg?raw=true"/></a>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3">:man_teacher: Projetos de Extensão, Parcerias e Trabalhos Interdisciplinares.</td>
-</tr>
-</table>
-
-</div>
-</details>
-
-</div>
-
------
-
-<div>
-
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
-<table>
-<tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
-</tr>
-<tr>
-<td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-</td>
-<td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
-</td>
-</tr>
-<tr>
- <td align="center"></td>
- <td align="center"></td>
-</tr> 
-</table>
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark&utcOffset=8"/>
-</td>
-<td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopauloaramuni&theme=github_dark"/>
-</td>
-<td>
-<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr>
-</table>
-
-<table>
-<tr>
- <td align="center"></td>
-</tr>
-<tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
-</tr>
-<tr>
- <td align="center"></td>
-</tr> 
-</table>
-
-</div>
-</div>
-
-
 
 -----
 <div align="center">
@@ -387,8 +158,24 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+<div align="center">
+ <table>
+  <tr>
+   <td align="center" colspan="1"></td>
+  </tr>
+  <tr>
+   <td>
+   <img alt="Quotes" height="180px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
+   </td>
+  </tr>
+  <tr>
+   <td align="center" colspan="1"></td>
+  </tr> 
+ </table>
+</div>
 <div align="center">
  <table>
  <tr>
@@ -410,21 +197,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
-<div align="center">
- <table>
-  <tr>
-   <td align="center" colspan="1"></td>
-  </tr>
-  <tr>
-   <td>
-   <img alt="Quotes" height="180px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true"/>
-   </td>
-  </tr>
-  <tr>
-   <td align="center" colspan="1"></td>
-  </tr> 
- </table>
-</div>
+
 
 -----
 
