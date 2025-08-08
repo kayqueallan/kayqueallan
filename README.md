@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://wa.me/5531991082537" target="_blank"><img src="/img/wpp2.png" width="45px" height="45px"/></a>
 </td>
-<td><a href="https://www.instagram.com/_rkayque/" target="_blank"><img src="/img/insta2.png" width="45px" height="45px"/></a>
+<td><a href="https://www.instagram.com/rkayque_/" target="_blank"><img src="/img/insta2.png" width="45px" height="45px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/kayqueallan/" target="_blank"><img src="/img/linkedin2.png" width="45px" height="45px"/></a>
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="/img/discord2.png" width="45px" height="45px"/></a>
