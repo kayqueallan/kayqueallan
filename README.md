@@ -42,7 +42,7 @@
 
 <h3>🙋‍♂️ Sobre mim:</h3>
 
-<div align="justify"> Olá! Meu nome é João Gabriel e sou estudante de Engenharia de Software na PUC Minas, campus Coração Eucarístico. Desde que iniciei minha jornada na programação, em 2023, tenho me dedicado intensamente a aprender e aplicar os conhecimentos em desenvolvimento de software, tanto no ambiente acadêmico quanto em projetos pessoais.
+<div align="justify"> Olá! Meu nome é Kaque Allan e sou estudante de Engenharia de Software na PUC Minas, campus Coração Eucarístico. Desde que iniciei minha jornada na programação, em 2024, tenho me dedicado intensamente a aprender e aplicar os conhecimentos em desenvolvimento de software, tanto no ambiente acadêmico quanto em projetos pessoais.
 Meu foco está em construir soluções eficientes e bem estruturadas, explorando tanto o front-end quanto o back-end, com especial interesse por arquitetura de software e banco de dados. Atualmente, minha stack principal inclui Java, Spring Boot, PostgreSQL, APIs RESTful, JavaScript e React.js. Utilizo ferramentas como VS Code, PGAdmin e Live Server para o desenvolvimento e integração dos meus projetos.
 
 No 4º período da faculdade, tive contato direto com padrões de projeto e arquitetura de sistemas, o que fortaleceu meu desejo de atuar como arquiteto de software no futuro. Paralelamente aos estudos formais, invisto na minha formação prática por meio de cursos na Alura e na Udemy, onde aprofundo temas como SQL, desenvolvimento web e boas práticas de código.
@@ -66,7 +66,7 @@ Busco constantemente aprimorar minhas habilidades técnicas e teóricas, mantend
   <tr>
     <td>
       <div align="justify">
-        Sou mineiro e tenho 20 anos. Fora do mundo da tecnologia, gosto de aproveitar meu tempo com atividades que me desafiem e tragam emoção, como trilhas, kart e academia. Também sou fã de carros e apaixonado por videogames, especialmente jogos de corrida e mundo aberto, como F1, Forza Horizon, CarX Drift e GTA V. Nos momentos de descanso, gosto de ouvir música e acompanhar o meu time do coração, o Atlético Mineiro.
+        Sou mineiro e tenho 20 anos. Fora do mundo da tecnologia, gosto de aproveitar meu tempo com atividades que me desafiem e tragam emoção, como trilhas, kart e academia. Também sou fã de carros e apaixonado por videogames, especialmente jogos de corrida e mundo aberto, como F1, Forza Horizon, CarX Drift e GTA V. Nos momentos de descanso, gosto de ouvir música e acompanhar o meu time do coração, o Cruzeiro.
       </div>
     </td>
     <td>
