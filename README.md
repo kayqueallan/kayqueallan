@@ -246,6 +246,14 @@ Formação em desenvolvimento web com foco em React, Node.js e PostgreSQL, além
 </div>
 
 
+<!-- Seção Footer -->
+
+<td>
+<a href="mailto:maiajoaogabriel.contact@gmail.com" target="_blank"><img src="https://github.com/Joaogabrielmaia/Joaogabrielmaia/blob/main/Img/Footer%20ReadMe.png" alt="github-footer1"/></a>
+</td>
+</tr>
+</table>
+</div>
 
 <div align="center">
 
@@ -259,19 +267,6 @@ Formação em desenvolvimento web com foco em React, Node.js e PostgreSQL, além
                                  ╚═╝                   
 ```                                        
 
-</div>
-
-
-
-
-
-<!-- Seção Footer -->
-
-<td>
-<a href="mailto:maiajoaogabriel.contact@gmail.com" target="_blank"><img src="https://github.com/Joaogabrielmaia/Joaogabrielmaia/blob/main/Img/Footer%20ReadMe.png" alt="github-footer1"/></a>
-</td>
-</tr>
-</table>
 </div>
 
 
