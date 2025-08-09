@@ -23,7 +23,6 @@
 <td><a href="https://www.instagram.com/kayqueallan/" target="_blank"><img src="/img/insta2.png" width="45px" height="45px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/kayqueallan/" target="_blank"><img src="/img/linkedin2.png" width="45px" height="45px"/></a>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="/img/discord2.png" width="45px" height="45px"/></a>
 
 </tr>
 <tr>
