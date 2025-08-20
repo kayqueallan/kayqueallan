@@ -8,14 +8,9 @@
 
 <div style="text-align: justify;">
 Hello! I'm Kayque Allan, a dedicated Software Engineering student at PUC Minas, with a great passion for technology. Fascinated by the world of computing from an early age, I am constantly seeking knowledge and improvement in programming. As a Software Engineering student, I am immersed in a dynamic environment where I apply theoretical concepts to practical projects, always eager to learn and grow through courses, workshops, and hackathons. In addition to programming, I am also a design enthusiast, exploring the intersection between aesthetics and functionality in digital products. Committed to personal and professional development, I am learning English and Spanish to expand my communication and collaboration opportunities in a globalized world. Here on GitHub, I'm excited to share my projects, collaborate with fellow developers, and contribute to the growing technology community. Let's innovate and create together for the digital future! </div>
-##
 </div>
 
-
-
-<div>
-
-### <img height="20" alt="GIF" src="/img/skills.gif"/>&nbsp;Linguagens e ferramentas:
+</br>
 <div>
 <code><a href="https://www.python.org/" target="_blank"><img width="45" height="45" src="/img/python.png"/></a></code>
 &nbsp; 
@@ -41,8 +36,7 @@ Hello! I'm Kayque Allan, a dedicated Software Engineering student at PUC Minas, 
 &nbsp; 
 <code><a href="https://nodejs.org/en/" target="_blank"><img width="45" height="45" src="/img/nodejs.png"/></a></code>
 &nbsp;
-
-
+</br>
 <code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="45" height="45" src="/img/aws.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.docker.com/" target="_blank"><img width="45" height="45" src="/img/docker.png"/></a></code>
