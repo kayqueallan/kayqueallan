@@ -12,10 +12,6 @@ Hello! I'm Kayque Allan, a dedicated Software Engineering student at PUC Minas, 
 
 </br>
 <div>
-<code><a href="https://www.python.org/" target="_blank"><img width="45" height="45" src="/img/python.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="45" height="45" src="/img/c.png"/></a></code> 
-&nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="45" height="45" src="/img/java.png"/></a></code>
 &nbsp;
 <code><a href="https://spring.io/" target="_blank"><img width="45" height="45" src="/img/spring.png"/></a></code>
@@ -43,12 +39,8 @@ Hello! I'm Kayque Allan, a dedicated Software Engineering student at PUC Minas, 
 &nbsp; 
 <code><a href="https://www.postman.com/" target="_blank"><img width="45" height="45" src="/img/postman.png"/></a></code>
 &nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank"><img width="45" height="45" src="/img/insomnia.png"/></a></code>
-&nbsp; 
 <code><a href="https://git-scm.com/" target="_blank"><img width="45" height="45" src="/img/git.png"/></a></code>
-&nbsp; 
-<code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="45" height="45" src="/img/eclipse.png"/></a></code>
-&nbsp; 
+&nbsp;  
 <code><a href="https://netbeans.apache.org/" target="_blank"><img width="45" height="45" src="/img/netbeans.png"/></a></code>
 &nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="45" height="45" src="/img/vs.png"/></a></code>
